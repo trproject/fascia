@@ -1,0 +1,18 @@
+body.bgtransition {
+    background-color: #9da5af;
+    transition: background-color 7s cubic-bezier(1, 1, 1, 1);
+    transition-delay: 0s;
+}
+
+.tr-head {
+    max-width: 500px;
+    margin: auto;
+}
+
+.tr-content {
+    max-width: 500px;
+    margin: auto;
+    background-color: white;
+    text-align: justify;
+    text-justify: inter-word;
+}
